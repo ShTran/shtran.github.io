@@ -20,7 +20,7 @@
 
     .navbar {
       display:block;
-      background-color: #313732;
+      background-color: skyblue;
       height:80px;
       margin:0 auto;
       min-width:600px;
@@ -37,16 +37,16 @@
 
     .navigation li a {
       text-decoration: none;
-      color:#FFFFFF;
+      color: #FFFFFF;
     }
 
     .navigation li:hover {
-      background-color: #F26101;
+      background-color: pink;
     }
     
     .active {
-        background-color: #4CAF50;
-        color: white;
+        background-color: lightgreen;
+        color: black;
     }
     /* END NAVBAR CSS */
     
